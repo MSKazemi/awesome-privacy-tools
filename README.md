@@ -196,6 +196,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [qnote](https://github.com/Omibranch/qnote) - Minimal frameless notepad with local-only storage, no telemetry, no cloud. Markdown live preview, real PDF export via Typst, OCR via Tesseract, automatic version history. Available on AUR.
 - [Standard Notes](https://standardnotes.com/) - Encrypted notes app with cross-platform sync.
 - [Tresorit](https://tresorit.com/) - End-to-end encrypted cloud storage and collaboration.
+- [YazSes](https://mskazemi.com/yazses/) - Open-source voice dictation for Linux, macOS and Windows that transcribes speech on the device, so audio is not sent to a server.
 
 ## Operating Systems and Device Privacy
 
